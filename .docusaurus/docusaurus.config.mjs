@@ -27,11 +27,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/usr/src/app/sidebars.js",
-          "editUrl": "https://github.com/rezio/rezio-docs/edit/main/"
+          "editUrl": "https://github.com/prashant-rezio/rezio-doc/edit/main/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/rezio/rezio-docs/edit/main/"
+          "editUrl": "https://github.com/prashant-rezio/rezio-doc/edit/main/"
         },
         "theme": {
           "customCss": "/usr/src/app/src/css/custom.css"
