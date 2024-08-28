@@ -84,7 +84,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/rezio/rezio-docs",
+          "href": "https://github.com/prashant-rezio/rezio-doc",
           "label": "GitHub",
           "position": "right"
         }
@@ -145,7 +145,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/rezio/rezio-docs"
+              "href": "https://github.com/prashant-rezio/rezio-doc"
             }
           ]
         }
