@@ -1,0 +1,16 @@
+{
+  "id": "Frontend/intro",
+  "title": "Introduction to Frontend",
+  "description": "",
+  "source": "@site/docs/Frontend/intro.md",
+  "sourceDirName": "Frontend",
+  "slug": "/Frontend/intro",
+  "permalink": "/docs/Frontend/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/rezio/rezio-docs/edit/main/docs/Frontend/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "frontendSidebar"
+}

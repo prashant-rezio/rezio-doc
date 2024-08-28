@@ -1,0 +1,81 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Ai/intro",
+          "docs": [
+            {
+              "id": "Ai/intro",
+              "path": "/docs/Ai/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Architecture/intro",
+              "path": "/docs/Architecture/intro",
+              "sidebar": "architectureSidebar"
+            },
+            {
+              "id": "Backend/intro",
+              "path": "/docs/Backend/intro",
+              "sidebar": "backendSidebar"
+            },
+            {
+              "id": "Design/intro",
+              "path": "/docs/Design/intro",
+              "sidebar": "designSidebar"
+            },
+            {
+              "id": "Frontend/intro",
+              "path": "/docs/Frontend/intro",
+              "sidebar": "frontendSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/Ai/intro",
+                "label": "Ai/intro"
+              }
+            },
+            "frontendSidebar": {
+              "link": {
+                "path": "/docs/Frontend/intro",
+                "label": "Frontend/intro"
+              }
+            },
+            "backendSidebar": {
+              "link": {
+                "path": "/docs/Backend/intro",
+                "label": "Backend/intro"
+              }
+            },
+            "designSidebar": {
+              "link": {
+                "path": "/docs/Design/intro",
+                "label": "Design/intro"
+              }
+            },
+            "architectureSidebar": {
+              "link": {
+                "path": "/docs/Architecture/intro",
+                "label": "Architecture/intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

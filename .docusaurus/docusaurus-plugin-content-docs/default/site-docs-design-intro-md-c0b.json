@@ -1,0 +1,16 @@
+{
+  "id": "Design/intro",
+  "title": "Introduction to Design",
+  "description": "",
+  "source": "@site/docs/Design/intro.md",
+  "sourceDirName": "Design",
+  "slug": "/Design/intro",
+  "permalink": "/docs/Design/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/rezio/rezio-docs/edit/main/docs/Design/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "designSidebar"
+}

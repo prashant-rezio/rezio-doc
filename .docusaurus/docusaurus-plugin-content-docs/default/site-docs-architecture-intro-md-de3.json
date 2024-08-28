@@ -1,0 +1,16 @@
+{
+  "id": "Architecture/intro",
+  "title": "Introduction to Architecture",
+  "description": "",
+  "source": "@site/docs/Architecture/intro.md",
+  "sourceDirName": "Architecture",
+  "slug": "/Architecture/intro",
+  "permalink": "/docs/Architecture/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/rezio/rezio-docs/edit/main/docs/Architecture/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "architectureSidebar"
+}

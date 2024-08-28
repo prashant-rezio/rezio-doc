@@ -1,0 +1,16 @@
+{
+  "id": "Ai/intro",
+  "title": "Introduction to AI",
+  "description": "",
+  "source": "@site/docs/Ai/intro.md",
+  "sourceDirName": "Ai",
+  "slug": "/Ai/intro",
+  "permalink": "/docs/Ai/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/rezio/rezio-docs/edit/main/docs/Ai/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "Backend/intro",
+  "title": "Introduction to Backend",
+  "description": "",
+  "source": "@site/docs/Backend/intro.md",
+  "sourceDirName": "Backend",
+  "slug": "/Backend/intro",
+  "permalink": "/docs/Backend/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/rezio/rezio-docs/edit/main/docs/Backend/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "backendSidebar"
+}
