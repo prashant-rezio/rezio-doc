@@ -101,6 +101,12 @@ const config = {
             position: 'left',
             label: 'Architecture',
           },
+          {
+          "type": "docSidebar",
+          "sidebarId": "metricsSidebar",
+          "position": "left",
+          "label": "Metrics"
+          },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/prashant-rezio/rezio-doc',
