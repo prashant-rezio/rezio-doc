@@ -38,6 +38,11 @@
             {
               "id": "intro",
               "path": "/docs/intro"
+            },
+            {
+              "id": "Metrics/intro",
+              "path": "/docs/Metrics/intro",
+              "sidebar": "metricsSidebar"
             }
           ],
           "draftIds": [],
@@ -64,6 +69,12 @@
               "link": {
                 "path": "/docs/Design/intro",
                 "label": "Design/intro"
+              }
+            },
+            "metricsSidebar": {
+              "link": {
+                "path": "/docs/Metrics/intro",
+                "label": "Metrics/intro"
               }
             },
             "architectureSidebar": {

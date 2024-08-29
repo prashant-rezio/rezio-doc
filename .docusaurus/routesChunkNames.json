@@ -80,17 +80,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-46f": {
+  "/docs-d35": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-39f": {
+  "/docs-25e": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-bde": {
+  "/docs-291": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Ai/intro-39a": {
@@ -116,6 +116,10 @@
   "/docs/intro-853": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/Metrics/intro-1ff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-metrics-intro-4-f-0-a09"
   },
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

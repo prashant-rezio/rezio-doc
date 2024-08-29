@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '46f'),
+    component: ComponentCreator('/docs', 'd35'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '39f'),
+        component: ComponentCreator('/docs', '25e'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'bde'),
+            component: ComponentCreator('/docs', '291'),
             routes: [
               {
                 path: '/docs/Ai/intro',
@@ -103,6 +103,12 @@ export default [
                 path: '/docs/intro',
                 component: ComponentCreator('/docs/intro', '853'),
                 exact: true
+              },
+              {
+                path: '/docs/Metrics/intro',
+                component: ComponentCreator('/docs/Metrics/intro', '1ff'),
+                exact: true,
+                sidebar: "metricsSidebar"
               }
             ]
           }

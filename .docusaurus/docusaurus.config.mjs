@@ -45,7 +45,7 @@ export default {
       "title": "Rezio Docs",
       "logo": {
         "alt": "Rezio Logo",
-        "src": "img/logo.svg"
+        "src": "img/logo1.png"
       },
       "items": [
         {
@@ -77,6 +77,12 @@ export default {
           "sidebarId": "architectureSidebar",
           "position": "left",
           "label": "Architecture"
+        },
+        {
+          "type": "docSidebar",
+          "sidebarId": "metricsSidebar",
+          "position": "left",
+          "label": "Metrics"
         },
         {
           "to": "/blog",
