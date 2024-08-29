@@ -48,8 +48,6 @@ module.exports = {
       ],
     },
   ],
-
-
   // Sidebar for the metrics section
   metricsSidebar: [
     {
@@ -57,6 +55,18 @@ module.exports = {
       label: 'Metrics',
       items: [
         'Metrics/intro', // Ensure these paths correspond to your markdown files
+        // Add more items here for the Architecture section
+      ],
+    },
+  ],
+
+  // Sidebar for the architcture section
+  architectureSidebar: [
+    {
+      type: 'category',
+      label: 'Architecture',
+      items: [
+        'Architecture/intro', // Ensure these paths correspond to your markdown files
         // Add more items here for the Architecture section
       ],
     },
