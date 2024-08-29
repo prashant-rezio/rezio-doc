@@ -43,6 +43,10 @@
               "id": "Metrics/intro",
               "path": "/docs/Metrics/intro",
               "sidebar": "metricsSidebar"
+            },
+            {
+              "id": "Metrics/rezio-tech-metrics",
+              "path": "/docs/Metrics/rezio-tech-metrics"
             }
           ],
           "draftIds": [],

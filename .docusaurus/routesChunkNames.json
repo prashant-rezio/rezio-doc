@@ -80,17 +80,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-d35": {
+  "/docs-e7d": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-25e": {
+  "/docs-51a": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-291": {
+  "/docs-193": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Ai/intro-39a": {
@@ -120,6 +120,10 @@
   "/docs/Metrics/intro-1ff": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-metrics-intro-4-f-0-a09"
+  },
+  "/docs/Metrics/rezio-tech-metrics-cb4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-metrics-rezio-tech-metricsdf-3-81d"
   },
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
