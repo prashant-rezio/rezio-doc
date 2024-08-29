@@ -68,7 +68,7 @@ const config = {
         title: 'Rezio Docs',
         logo: {
           alt: 'Rezio Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo1.png',
         },
         items: [
           {
