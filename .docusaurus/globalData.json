@@ -46,7 +46,8 @@
             },
             {
               "id": "Metrics/rezio-tech-metrics",
-              "path": "/docs/Metrics/rezio-tech-metrics"
+              "path": "/docs/Metrics/rezio-tech-metrics",
+              "sidebar": "metricsSidebar"
             }
           ],
           "draftIds": [],

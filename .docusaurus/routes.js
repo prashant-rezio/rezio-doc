@@ -59,15 +59,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'e7d'),
+    component: ComponentCreator('/docs', '147'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '51a'),
+        component: ComponentCreator('/docs', 'e06'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '193'),
+            component: ComponentCreator('/docs', '2c8'),
             routes: [
               {
                 path: '/docs/Ai/intro',
@@ -112,8 +112,9 @@ export default [
               },
               {
                 path: '/docs/Metrics/rezio-tech-metrics',
-                component: ComponentCreator('/docs/Metrics/rezio-tech-metrics', 'cb4'),
-                exact: true
+                component: ComponentCreator('/docs/Metrics/rezio-tech-metrics', 'd6a'),
+                exact: true,
+                sidebar: "metricsSidebar"
               }
             ]
           }

@@ -1,74 +1,59 @@
-// sidebars.js
+const fs = require('fs');
+const path = require('path');
+
+// Helper function to generate sidebar items based on files in a directory
+const generateSidebarItems = (dir) => {
+  return fs.readdirSync(dir)
+    .filter(file => file.endsWith('.md') || file.endsWith('.mdx'))
+    .map(file => `${path.basename(dir)}/${file.replace(/\.mdx?$/, '')}`);
+};
 
 module.exports = {
-  // Sidebar for the AI section
   tutorialSidebar: [
     {
       type: 'category',
       label: 'AI',
-      items: [
-        'Ai/intro', // Ensure these paths correspond to your markdown files
-        // Add more items here for the AI section
-      ],
+      items: generateSidebarItems('docs/Ai'),
     },
   ],
 
-  // Sidebar for the Frontend section
   frontendSidebar: [
     {
       type: 'category',
       label: 'Frontend',
-      items: [
-        'Frontend/intro', // Ensure these paths correspond to your markdown files
-        // Add more items here for the Frontend section
-      ],
+      items: generateSidebarItems('docs/Frontend'),
     },
   ],
 
-  // Sidebar for the Backend section
   backendSidebar: [
     {
       type: 'category',
       label: 'Backend',
-      items: [
-        'Backend/intro', // Ensure these paths correspond to your markdown files
-        // Add more items here for the Backend section
-      ],
+      items: generateSidebarItems('docs/Backend'),
     },
   ],
 
-  // Sidebar for the Design section
   designSidebar: [
     {
       type: 'category',
       label: 'Design',
-      items: [
-        'Design/intro', // Ensure these paths correspond to your markdown files
-        // Add more items here for the Design section
-      ],
+      items: generateSidebarItems('docs/Design'),
     },
   ],
-  // Sidebar for the metrics section
+
   metricsSidebar: [
     {
       type: 'category',
       label: 'Metrics',
-      items: [
-        'Metrics/intro', // Ensure these paths correspond to your markdown files
-        // Add more items here for the Architecture section
-      ],
+      items: generateSidebarItems('docs/Metrics'),
     },
   ],
 
-  // Sidebar for the architcture section
   architectureSidebar: [
     {
       type: 'category',
       label: 'Architecture',
-      items: [
-        'Architecture/intro', // Ensure these paths correspond to your markdown files
-        // Add more items here for the Architecture section
-      ],
+      items: generateSidebarItems('docs/Architecture'),
     },
   ],
 };
