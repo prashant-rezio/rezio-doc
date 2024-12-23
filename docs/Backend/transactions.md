@@ -164,14 +164,3 @@ The following steps are part of the transaction lifecycle:
    - Calculated based on `offer_price` and predefined rates.
 
 ---
-
-## **Next Steps**
-
-1. **Confirm the Step List**:
-   - Full names, descriptions, and orders of steps for transactions (buyer and seller specific).
-2. **Validation Logic**:
-   - Define dependencies and rules for enabling/disabling steps.
-3. **API Requirements**:
-   - Define endpoints for retrieving, updating, and validating transactions and steps.
-
-Let me know if further refinements or additions are needed!
